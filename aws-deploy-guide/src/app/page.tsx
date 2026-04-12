@@ -30,7 +30,7 @@ export default function Home() {
 
           <div className="flex justify-center">
             <a
-              href="https://github.com/HimanM/DevOps-Project-4"
+              href="https://github.com/HimanM/dockerized-app-aws-deployment-guide"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-3 px-6 py-3 md:px-8 md:py-4 bg-white/5 hover:bg-white/10 border border-white/10 hover:border-white/20 rounded-full transition-all duration-300 group backdrop-blur-sm"
