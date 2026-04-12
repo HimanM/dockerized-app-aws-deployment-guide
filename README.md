@@ -172,8 +172,8 @@ To replicate this project and deploy your own application:
 **1. Clone the Repository**
 
 ```bash
-git clone https://github.com/HimanM/DevOps-Project-4.git
-cd DevOps-Project-4
+git clone https://github.com/HimanM/dockerized-app-aws-deployment-guide.git
+cd dockerized-app-aws-deployment-guide
 ```
 
 **2. Install Dependencies (for local development)**
