@@ -1,3 +1,9 @@
+<!-- BANNER_START -->
+<p align="center">
+  <img src="./.banner/banner.svg" width="100%" alt="Project Banner">
+</p>
+<!-- BANNER_END -->
+
 # AWS ECS Fargate Deployment with CI/CD
 
 > **A comprehensive DevOps learning project demonstrating containerized application deployment on AWS ECS**
